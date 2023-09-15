@@ -1,0 +1,77 @@
+/*  Register 2 */
+.tableP {
+
+  border-right: 2px solid black;
+  border-bottom: 2px solid black;
+  border-left: 2px solid gray;
+  border-top: 2px solid gray;
+  margin-top: 5%;
+  margin-left: 25%;
+  width: 50%;
+  background-color: white;
+
+}
+
+.td1 {
+  background-color: #00ccff;
+  padding-left: 10px;
+  font-size: 10px;
+  border: 1px solid black
+}
+
+th {
+  border: 1px solid black;
+  
+}
+
+.buttonlast {
+  font-size: 12px;
+  width: 32%;
+  height: 25px;
+  background-color: white;
+  border-color: white;
+  border: 0px;
+  border-radius: 1px;
+
+
+}
+/*  Register 2 */
+
+.table_Reg2{
+  color: #dde01f;
+  margin-top: 2%;
+  margin-left: 25%;
+  width: 50%;
+  background-color: white;
+  
+}
+.textinput{
+  text-align: right;
+  padding-right: 15px;
+}
+.placeText{
+  font-size:10px;
+
+}
+.Button_Submit{
+  font-size: 12px;
+  color:white;
+  width: 17%;
+  height: 25px;
+  background-color: rgb(4, 172, 12);
+  border-color: white;
+  border: 0px;
+  border-radius: 1px;
+
+}
+.Button_Cancel{
+  font-size: 12px;
+  color:white;
+  width: 17%;
+  height: 25px;
+  background-color: rgb(226, 36, 29);
+  border-color: white;
+  border: 0px;
+  border-radius: 1px;
+
+}
